@@ -1,6 +1,7 @@
 # django-todo
 A simple todo app built with django
 added new line to check CICD integration
+new line added
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
